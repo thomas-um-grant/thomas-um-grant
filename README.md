@@ -224,13 +224,13 @@ I'm a passionate software engineer with a love for creating elegant solutions to
 I'm always open to interesting conversations and collaboration opportunities!
 
 [![LinkedIn](https://img.shields.io/badge/-Thomas_Grant-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-grant)
-[![Twitter](https://img.shields.io/badge/-@thomas__grant-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thomas_grant)
-[![Email](https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomas.grant@email.com)
+[![Twitter](https://img.shields.io/badge/-@thomas_grant-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thomas_grant)
+[![Email](https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomas.grant@example.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://thomas-grant.dev)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/thomas_grant)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thomas_grant)
 
-**📧 Email:** thomas.grant@email.com  
+**📧 Email:** thomas.grant@example.com  
 **🌐 Website:** [thomas-grant.dev](https://thomas-grant.dev)  
 **📍 Location:** Ann Arbor, Michigan, USA
 

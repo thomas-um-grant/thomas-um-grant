@@ -4,7 +4,7 @@
 
 ### 🚀 Software Engineer | Problem Solver | Technology Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+%26+DevOps+Engineer;Open+Source+Contributor;Always+Learning+New+Things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+%26+DevOps+Engineer;Open+Source+Contributor;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/thomas-um-grant?label=Follow&style=social)](https://github.com/thomas-um-grant)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-grant)
@@ -139,7 +139,7 @@ I'm a passionate software engineer with a love for creating elegant solutions to
   
 [![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomas-um-grant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/thomas-um-grant)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thomas-um-grant&theme=tokyonight&hide_border=true)](https://github.com/thomas-um-grant)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=thomas-um-grant&theme=tokyonight&hide_border=true)](https://github.com/thomas-um-grant)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-um-grant&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/thomas-um-grant)
 
@@ -242,7 +242,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
 
-[![Thomas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thomas-um-grant&theme=tokyo-night&hide_border=true)](https://github.com/thomas-um-grant)
+[![Thomas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thomas-um-grant&theme=tokyonight&hide_border=true)](https://github.com/thomas-um-grant)
 
 </div>
 

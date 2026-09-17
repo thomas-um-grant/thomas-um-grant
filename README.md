@@ -18,7 +18,7 @@
 
 I'm a passionate ai & software engineer with a love for creating elegant solutions to complex problems.
 
-🎯 **Currently:** Focused on building a productivity SaaS for large companies.
+🎯 **Currently:** Focused on building a Trade Compliance engine for Europe.
 
 💡 **Philosophy:** I believe in writing clean, maintainable code and fostering collaborative environments where teams can do their best work.
 

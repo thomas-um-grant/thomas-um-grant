@@ -95,20 +95,6 @@ I'm a passionate ai & software engineer with a love for creating elegant solutio
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-[![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomas-um-grant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/thomas-um-grant)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=thomas-um-grant&theme=tokyonight&hide_border=true)](https://github.com/thomas-um-grant)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-um-grant&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/thomas-um-grant)
-
-</div>
-
----
-
 ## 🤝 Connect with Me
 
 <div align="center">
